@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escrutinio_sitio>
+    <porciento_escrutado>100</porciento_escrutado>
+    <nombre_sitio>Vigo</nombre_sitio>
+    <convocatoria>2020</convocatoria>
+    <ts>1594630407</ts>
+    <tipo_sitio>5</tipo_sitio>
+    <votos>
+        <contabilizados>
+            <cantidad>136513</cantidad>
+            <porcentaje>57.18</porcentaje>
+        </contabilizados>
+        <abstenciones>
+            <cantidad>102238</cantidad>
+            <porcentaje>42.82</porcentaje>
+        </abstenciones>
+        <nulos>
+            <cantidad>989</cantidad>
+            <porcentaje>0.72</porcentaje>
+        </nulos>
+        <blancos>
+            <cantidad>1144</cantidad>
+            <porcentaje>0.84</porcentaje>
+        </blancos>
+    </votos>
+    <resultados>
+        <numero_partidos>16</numero_partidos>
+        <partido id="18">
+            <nombre>PP</nombre>
+            <votos_numero>44064</votos_numero>
+            <votos_porciento>32.51</votos_porciento>
+        </partido>
+       <partido id="19">
+            <nombre>PSdeG</nombre>
+            <votos_numero>43332</votos_numero>
+            <votos_porciento>31.97</votos_porciento>
+        </partido>
+       <partido id="3">
+            <nombre>BNG</nombre>
+            <votos_numero>31628</votos_numero>
+            <votos_porciento>23.34</votos_porciento>
+        </partido>
+       <partido id="17">
+            <nombre>PODEMOS-EU-ANOVA</nombre>
+            <votos_numero>8246</votos_numero>
+            <votos_porciento>6.08</votos_porciento>
+        </partido>
+       <partido id="25">
+            <nombre>VOX</nombre>
+            <votos_numero>2913</votos_numero>
+            <votos_porciento>2.15</votos_porciento>
+        </partido>
+       <partido id="7">
+            <nombre>Cs</nombre>
+            <votos_numero>1671</votos_numero>
+            <votos_porciento>1.23</votos_porciento>
+        </partido>
+       <partido id="14">
+            <nombre>PACMA</nombre>
+            <votos_numero>919</votos_numero>
+            <votos_porciento>0.68</votos_porciento>
+        </partido>
+       <partido id="9">
+            <nombre>EN MAREA-CPG-PG</nombre>
+            <votos_numero>355</votos_numero>
+            <votos_porciento>0.26</votos_porciento>
+        </partido>
+       <partido id="23">
+            <nombre>UNIDOS SI-UDP-DEf</nombre>
+            <votos_numero>235</votos_numero>
+            <votos_porciento>0.17</votos_porciento>
+        </partido>
+       <partido id="1">
+            <nombre>ADCG</nombre>
+            <votos_numero>233</votos_numero>
+            <votos_porciento>0.17</votos_porciento>
+        </partido>
+       <partido id="8">
+            <nombre>EB</nombre>
+            <votos_numero>166</votos_numero>
+            <votos_porciento>0.12</votos_porciento>
+        </partido>
+       <partido id="11">
+            <nombre>EQUO</nombre>
+            <votos_numero>161</votos_numero>
+            <votos_porciento>0.12</votos_porciento>
+        </partido>
+       <partido id="22">
+            <nombre>RECORTES CERO-ESCO-OV-M</nombre>
+            <votos_numero>129</votos_numero>
+            <votos_porciento>0.1</votos_porciento>
+        </partido>
+       <partido id="15">
+            <nombre>PCTG</nombre>
+            <votos_numero>127</votos_numero>
+            <votos_porciento>0.09</votos_porciento>
+        </partido>
+       <partido id="21">
+            <nombre>PUM+J</nombre>
+            <votos_numero>112</votos_numero>
+            <votos_porciento>0.08</votos_porciento>
+        </partido>
+       <partido id="24">
+            <nombre>UPYD</nombre>
+            <votos_numero>89</votos_numero>
+            <votos_porciento>0.07</votos_porciento>
+        </partido>
+    </resultados>
+</escrutinio_sitio>
