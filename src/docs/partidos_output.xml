@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<partidos>
+<partido id="18">
+<nombre>PP</nombre>
+<votos>44064</votos>
+<porcentaje>32.51</porcentaje>
+</partido>
+<partido id="19">
+<nombre>PSdeG</nombre>
+<votos>43332</votos>
+<porcentaje>31.97</porcentaje>
+</partido>
+<partido id="3">
+<nombre>BNG</nombre>
+<votos>31628</votos>
+<porcentaje>23.34</porcentaje>
+</partido>
+<partido id="17">
+<nombre>PODEMOS-EU-ANOVA</nombre>
+<votos>8246</votos>
+<porcentaje>6.08</porcentaje>
+</partido>
+<partido id="25">
+<nombre>VOX</nombre>
+<votos>2913</votos>
+<porcentaje>2.15</porcentaje>
+</partido>
+<partido id="7">
+<nombre>Cs</nombre>
+<votos>1671</votos>
+<porcentaje>1.23</porcentaje>
+</partido>
+<partido id="14">
+<nombre>PACMA</nombre>
+<votos>919</votos>
+<porcentaje>0.68</porcentaje>
+</partido>
+<partido id="9">
+<nombre>EN MAREA-CPG-PG</nombre>
+<votos>355</votos>
+<porcentaje>0.26</porcentaje>
+</partido>
+<partido id="23">
+<nombre>UNIDOS SI-UDP-DEf</nombre>
+<votos>235</votos>
+<porcentaje>0.17</porcentaje>
+</partido>
+<partido id="1">
+<nombre>ADCG</nombre>
+<votos>233</votos>
+<porcentaje>0.17</porcentaje>
+</partido>
+<partido id="8">
+<nombre>EB</nombre>
+<votos>166</votos>
+<porcentaje>0.12</porcentaje>
+</partido>
+<partido id="11">
+<nombre>EQUO</nombre>
+<votos>161</votos>
+<porcentaje>0.12</porcentaje>
+</partido>
+<partido id="22">
+<nombre>RECORTES CERO-ESCO-OV-M</nombre>
+<votos>129</votos>
+<porcentaje>0.1</porcentaje>
+</partido>
+<partido id="15">
+<nombre>PCTG</nombre>
+<votos>127</votos>
+<porcentaje>0.09</porcentaje>
+</partido>
+<partido id="21">
+<nombre>PUM+J</nombre>
+<votos>112</votos>
+<porcentaje>0.08</porcentaje>
+</partido>
+<partido id="24">
+<nombre>UPYD</nombre>
+<votos>89</votos>
+<porcentaje>0.07</porcentaje>
+</partido>
+<partido id="73">
+<nombre>Partido Innova</nombre>
+<votos>8290</votos>
+<porcentaje>73.0</porcentaje>
+</partido>
+</partidos>

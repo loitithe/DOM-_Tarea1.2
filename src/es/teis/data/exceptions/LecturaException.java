@@ -5,25 +5,29 @@
 package es.teis.data.exceptions;
 
 /**
- * Clase Main: Se encarga de crear objetos de tipo IXMLService para leer el documento XML y
- * extraer un ArrayList<Partido>. A continuación, deberá crear un objeto que implemente IPersistencia
- * y crear un archivo con ObjectOutputStream. Finalmente, deberá leer los datos escritos en el fichero de salida.
  * @author rguido
  */
 public class LecturaException extends Exception {
 
     private String rutaFichero;
 
+    /**
+     * Constructor por defecto
+     * @param string 
+     * @param rutaFichero
+     */
     public LecturaException(String string, String rutaFichero) {
 
         super(string);
         this.rutaFichero = rutaFichero;
     }
 
+    /**
+     * Método que devuelve la ruta del fichero
+     * @return 
+     */
     public String getRutaFichero() {
         return rutaFichero;
     }
-    
-    
 
 }
